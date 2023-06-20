@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(216, 236, 235);
+    text-align: center  ;
+} 
+#Sub-head{
+    text-decoration: underline;
+    color: #66BFBF;
+}
+#Top-cloud{
+    position: absolute;
+    top: 100px;
+    right: 200px;
+}
+#Mid-cloud{
+    position: absolute;
+    top: 200px;
+    left: 330px;
+}
+#Bot-cloud{
+    position: absolute;
+    top: 350px;
+    right: 350px;
+}
+#mountain{
+    margin: 35px auto 0 auto;
+}
+#name{
+    position: relative;
+    top: 62px;
+    font-size:39px;
+    font-family:monospace;
+    font-family:'Lobster';
+    font-style:normal;
+    
+    
+}
+.head{
+    margin: 70px auto 0 auto;
+}
+#Photo{
+    border-radius: 50%;
+    width: auto;
+    height: 120px;
+    position: absolute;
+    top: 0px;
+    left: 46%;
+}
+h1,h2{
+    color: #66BFBF;
+}
+.skill-img-left{
+    border-radius: 50%;
+    width: 300px;
+    float: left;
+    margin-left:125px;
+    margin-right: 43px;
+}
+.skill-title-left{
+    padding-top: 27px;
+    text-align: left;
+    font-size: 25px;
+    color: #205b89;
+}
+.left-desc{
+    text-align: left;
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+.skill-img-right{
+    border-radius: 50%;
+    width: 300px;
+    float: right;
+    margin-right:125px;
+    margin-left: 43px;
+}
+.skill-title-right{
+    padding-top:27px ;
+    text-align: right;
+    font-size: 25px;
+    color: #205b89;
+}
+.right-desc{
+    text-align: right;
+    font-size: 17px;
+    line-height: 1.5;
+}
